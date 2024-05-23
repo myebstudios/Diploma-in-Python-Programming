@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca4103f4-d749-4f73-9ce2-0b7e52e1f963" name="Changes" comment="Repo init">
-      <change afterPath="$PROJECT_DIR$/Module 1: Introduction to Python Programming/HelloWorld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 2: Displaying Text/Challenge1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Module 2: Displaying Text/DisplayingText.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,7 +101,7 @@
       <workItem from="1716370764471" duration="607000" />
       <workItem from="1716371378358" duration="665000" />
       <workItem from="1716372171486" duration="8784000" />
-      <workItem from="1716384223824" duration="2219000" />
+      <workItem from="1716384223824" duration="3957000" />
     </task>
     <task id="LOCAL-00001" summary="Repo init">
       <option name="closed" value="true" />
